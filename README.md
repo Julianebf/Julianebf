@@ -1,16 +1,10 @@
 # Olá! Eu sou a Juliane Bezerra Ferreira 👩🏽‍💻
 
-💻 Atuação como Desenvolvedora Full Stack e Analista de TI
-📊 Experiência em engenharia de dados, pipelines ETL/ELT e análise de dados
-🤖 Desenvolvimento de soluções com Machine Learning e NLP
-🏭 Experiência com projetos voltados à indústria (FIESC / IEL)
+💻 Atuação como Desenvolvedora Full Stack <br />
+📊 Experiência em engenharia de dados, pipelines ETL/ELT e análise de dados <br />
+🤖 Desenvolvimento de soluções com Machine Learning e NLP <br />
+🏭 Experiência com projetos voltados à indústria <br />
 
-🛠️ Tecnologias & Ferramentas
-Back-end: PHP (Laravel), Node.js
-Front-end: React, Next.js, Vue.js
-Dados & IA: Python, Pandas, Scikit-learn, NLP
-Banco de dados: PostgreSQL, MySQL
-Cloud & Data: Databricks, APIs, ETL/ELT
 
 ---
 
