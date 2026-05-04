@@ -1,16 +1,56 @@
-## Hi there 👋
+# Olá! Eu sou a Juliane Bezerra Ferreira 👩🏽‍💻
 
-<!--
-**Julianebf/Julianebf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atuação como Desenvolvedora Full Stack e Analista de TI
+📊 Experiência em engenharia de dados, pipelines ETL/ELT e análise de dados
+🤖 Desenvolvimento de soluções com Machine Learning e NLP
+🏭 Experiência com projetos voltados à indústria (FIESC / IEL)
 
-Here are some ideas to get you started:
+🛠️ Tecnologias & Ferramentas
+Back-end: PHP (Laravel), Node.js
+Front-end: React, Next.js, Vue.js
+Dados & IA: Python, Pandas, Scikit-learn, NLP
+Banco de dados: PostgreSQL, MySQL
+Cloud & Data: Databricks, APIs, ETL/ELT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<div align="left">
+  <!-- Usando servidor alternativo para evitar o erro de recurso -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianebf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianebf&layout=compact&theme=radical&langs_count=10" />
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+<div align="left">
+  <a href="https://github.com/julianebf/paineldeinsidentes">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julianebf&repo=paineldeinsidentes&theme=radical" />
+  </a>
+  <a href="https://github.com/julianebf/speakup-landing-page">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=julianebf&repo=speakup-landing-page&theme=radical" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianebf)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianebf)
