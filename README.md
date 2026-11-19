@@ -1,23 +1,8 @@
 # Olá! Eu sou a Juliane Bezerra Ferreira 👩🏽‍💻
 
 💻 Atuação como Desenvolvedora Full Stack <br />
-📊 Experiência em engenharia de dados, pipelines ETL/ELT e análise de dados <br />
-🤖 Desenvolvimento de soluções com Machine Learning e NLP <br />
-🏭 Experiência com projetos voltados à indústria <br />
 
 
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<div align="left">
-  <!-- Usando servidor alternativo para evitar o erro de recurso -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianebf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianebf&layout=compact&theme=radical&langs_count=10" />
-</div>
-
----
 
 ### 📌 Projetos em Destaque
 
